@@ -8,7 +8,7 @@ class Anagram
     @@all << words
   end 
   
-  def match()
+  def self.match(words)
     
   end 
   
