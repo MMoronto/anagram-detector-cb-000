@@ -15,7 +15,7 @@ class Anagram
   
   def self.match(words)
     self.all.each{|anagram| 
-      
+      anagram.
     }
   end 
   
