@@ -13,7 +13,7 @@ class Anagram
     @@all << anagram 
   end 
   
-  def self.match(words)
+  def self.match(array)
     self.all.each{|anagram| 
       anagram.
     }
